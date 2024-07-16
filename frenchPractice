@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+DIR=/home/sergio/Scripts/french
+
+python3 $DIR/french.py "$@"
