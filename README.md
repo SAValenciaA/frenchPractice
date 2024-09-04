@@ -14,6 +14,7 @@ $ ./frenchPractice [FLAG] [LEVEL]
 ## FLAG
 
 -t [LEVEL] this flag makes you translate to french the level's words
+
 -f This flag makes you translate from french the level's words
 
 ### LEVELS
